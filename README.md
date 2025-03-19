@@ -21,14 +21,13 @@ hurricanes that impacted Florida and how they would impact total gas prices befo
   - Pandas Library
   - MATLAB Library
 3. Energy Information Administration's APIv2
-4. www.weather.gov - For the information on the hurricanes.
+4. www.weather.gov - For dates and names of five hurricanes.
 
 ## How Does It Work?
 - Fetch U.S. EIA data through an EIA API key and save to a .csv file.
 - Analyze the data from the CSV file to plot a graph.
 - Use a collection of 5 CSV files to plot a bar graph for the average gasoline prices 2 weeks before and after, and during the hurricanes.
 
-# Findings & Results
-Regardless of the state of gas prices before a hurricane, the gas prices tend to drop during or not long after the hurricane is passing. However, other factors not accounted
-for in this project such as the state of the economy, entervention by the state and federal government, outages, and stalled crude oil production still have to be considered
-on why this tends to be the result.
+# Conclusion
+Based on the data collected for five hurricanes that have hit Florida,the total gas prices comparatively drop during or not long after the hurricane passes when compared to before its arrival. However, other factors not within the
+scope of this project such as the state of the economy at the time, intervention by the state and federal government, service outages, and changes in crude oil production still have to be considered on why this tends to be the result.
